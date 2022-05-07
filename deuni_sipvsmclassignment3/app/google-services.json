@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "448178659585",
+    "firebase_url": "https://assign3-1e0f6-default-rtdb.firebaseio.com",
+    "project_id": "assign3-1e0f6",
+    "storage_bucket": "assign3-1e0f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448178659585:android:1ae52e523c340ccad4fb00",
+        "android_client_info": {
+          "package_name": "com.example.deuni_sipvsmclassignment3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448178659585-omeqfivjbn0gjmu8lh003tat7o5ggss0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYzaj6VOjvrZNd-AQMcNt3tCJWIZBQobc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448178659585-omeqfivjbn0gjmu8lh003tat7o5ggss0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
